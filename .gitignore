@@ -11,3 +11,5 @@ buildNumber.properties
 .mvn/timing.properties
 
 /.idea
+/luceneIndex
+*.iml
